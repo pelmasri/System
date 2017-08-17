@@ -1,4 +1,4 @@
-enum System: CustomStringConvertible {
+public enum System: CustomStringConvertible {
   
   case clearScreen
   
