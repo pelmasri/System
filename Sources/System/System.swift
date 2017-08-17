@@ -1,6 +1,6 @@
 enum System: CustomStringConvertible {
   
-  case clearScreen,
+  case clearScreen
   
   public var description : String {
     switch self {
